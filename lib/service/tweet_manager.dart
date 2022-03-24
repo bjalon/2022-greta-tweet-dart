@@ -1,5 +1,6 @@
+import 'package:twitter_again/service/tweet.dart';
+
 import 'enrichers.dart';
-import 'tweet.dart';
 
 class TweetManager {
   List<Tweet> tweets = [];

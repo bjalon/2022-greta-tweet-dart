@@ -1,7 +1,6 @@
 import 'package:test/test.dart';
-
-import '../bin/tweet.dart';
-import '../bin/tweet_manager.dart';
+import 'package:twitter_again/service/tweet.dart';
+import 'package:twitter_again/service/tweet_manager.dart';
 
 void main() {
   test('Je veux pouvoir ajouter un tweet et le récupérer ensuite', () {

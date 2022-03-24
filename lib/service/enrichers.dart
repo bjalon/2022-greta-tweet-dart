@@ -1,4 +1,5 @@
-import 'tweet.dart';
+
+import 'package:twitter_again/service/tweet.dart';
 
 class SentimentEnricher {
   doEnrich(Tweet tweet) {
